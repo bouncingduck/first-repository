@@ -11,3 +11,7 @@ Welcome.
 One.
 Two.
 Three.
+
+Oh boy.  I'm so good at counting.
+
+I think I learned when I was just a wee child.
